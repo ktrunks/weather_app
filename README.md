@@ -1,16 +1,23 @@
 # weather
 
-A new Flutter project.
+Weather Application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Weather Application.
 
-A few resources to get you started if this is your first Flutter project:
+which user open weather api : -  https://openweathermap.org/api
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This application of weather:
+1. Home Which displays current location one weeks weather details .
+2. on click of pinned city weather -> which display displays pinned state weather details.
+- default pinned city are 'Kuala Lumpur ', 'George Town', 'Johor Bahru'.
+3. pinned city screen -> on click of plus icons which launches list of city with add button
+on click of add city is added to  pinned.
+4. Application Screen Shot.
+![Home Screen](../master/screen_shots/home_screen.png)
+![pinned city weather screen ](../master/screen_shots/list_of_city.png)
+![list of city ](../master/screen_shots/pinned_city_weather.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Application Apk link ](https://drive.google.com/file/d/1vE7VSEh8iael4tMdrYRRObbTXVwRoGAm/view?usp=sharing)
+
