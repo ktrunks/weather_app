@@ -53,7 +53,7 @@ class _PinnedCityDetailsState extends State<PinnedCityDetails>
                 _controller =
                     TabController(length: widget.city.length, vsync: this);
               }
-              setState(() {});
+              // setState(() {});
             });
           },
           child: Icon(
