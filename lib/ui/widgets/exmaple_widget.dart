@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:weather/ui/home/text_widget.dart';
 
 class ExampleWidget extends StatefulWidget {
   const ExampleWidget({Key? key}) : super(key: key);
