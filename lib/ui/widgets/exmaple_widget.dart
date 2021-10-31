@@ -22,7 +22,7 @@ class _ExampleWidgetState extends State<ExampleWidget>
     // small data
     ListView(
       children: [
-        TextWidget(name: 'vinod',),
+        // TextWidget(name: 'vinod',),
 
 
       ],
